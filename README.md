@@ -7,6 +7,8 @@ Copy of Kuuko (Copy of copy of kopilua), in the name of Tokisaki Kurumi(時崎�
 ## References  
 * https://github.com/gerich-home/kopilua  
 * https://github.com/weimingtom/Kuuko  
+* https://github.com/gfoot/kopilua  
+* https://github.com/NLua/KopiLua  
 
 ## Status  
 WIP  
