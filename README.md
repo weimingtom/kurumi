@@ -3,7 +3,7 @@ Copy of Kuuko (Copy of copy of kopilua), in the name of Tokisaki Kurumi(時崎�
 The second stage and power-up/bugfixing version of kopilua from Kuuko (https://github.com/weimingtom/Kuuko).    
 
 ## Target  
-* Porting to Java and Golang  
+* Porting kopilua (https://github.com/gerich-home/kopilua) to Java and Golang, etc     
 
 ## References  
 * https://github.com/gerich-home/kopilua  
