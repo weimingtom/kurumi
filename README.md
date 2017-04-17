@@ -5,6 +5,9 @@ The second stage and power-up/bugfixing version of kopilua from Kuuko (https://g
 ## Target  
 * Porting kopilua (https://github.com/gerich-home/kopilua) to Java and Golang, etc     
 
+## History
+* 05:00 2017/4/17 : Importing kurumi_java.  
+
 ## References  
 * https://github.com/gerich-home/kopilua  
 * https://github.com/weimingtom/Kuuko  
