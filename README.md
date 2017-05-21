@@ -13,6 +13,8 @@ The second stage and power-up/bugfixing version of kopilua from Kuuko (https://g
 * https://github.com/weimingtom/Kuuko  
 * https://github.com/gfoot/kopilua  
 * https://github.com/NLua/KopiLua  
+* https://github.com/NLua/NLua  
+* https://github.com/Mervill/Unity3D-NLua/tree/KopiLua  
 
 ## Status  
 WIP  
