@@ -19,6 +19,7 @@ The second stage and power-up/bugfixing version of kopilua from Kuuko (https://g
 * http://www.nuget.org/packages/NLua_Safe/  
 * https://github.com/mlnlover11/KopiLua-v5.1.5  
 * https://github.com/gfoot/kopiluainterface  
+* https://forum.unity3d.com/threads/lua-and-unity.124569/    
 
 ## Status  
 WIP  
