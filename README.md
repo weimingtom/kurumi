@@ -8,7 +8,7 @@ https://github.com/weimingtom/KuukoBack
 But it is the name of Java implementation (planning) for KopiLuaCompare, so it is still alive, just not synchronized.  
 
 ## Target  
-* Porting kopilua (https://github.com/gerich-home/kopilua) to Java and Golang, etc     
+* Porting kopilua (https://github.com/gerich-home/kopilua) to Java  
 
 ## History
 * 05:00 2017/4/17 : Importing kurumi_java.  
