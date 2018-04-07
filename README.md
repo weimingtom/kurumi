@@ -6,6 +6,7 @@ The second stage and power-up/bugfixing version of kopilua from Kuuko (https://g
 This project is merged into KuukoBack  
 https://github.com/weimingtom/KuukoBack  
 But it is the name of Java implementation (planning) for KopiLuaCompare, so it is still alive, just not synchronized.  
+This repo is the old source in many Java packages, but I change my plan, making all classes in less .java files, just the target of KuukoBack.   
 
 ## Target  
 * Porting kopilua (https://github.com/gerich-home/kopilua) to Java  
