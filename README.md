@@ -3,9 +3,9 @@ Copy of Kuuko (Copy of copy of kopilua), in the name of Tokisaki Kurumi(時崎�
 The second stage and power-up/bugfixing version of kopilua from Kuuko (https://github.com/weimingtom/Kuuko).    
 
 ## NOTE
-This project is merged into KuukoBack  
-https://github.com/weimingtom/KuukoBack  
-But it is the name of Java implementation (planning) for KopiLuaCompare, so it is still alive, just not synchronized.  
+> This project is merged into KuukoBack  
+> https://github.com/weimingtom/KuukoBack  
+> But it is the name of Java implementation (planning) for KopiLuaCompare, so it is still alive, just not synchronized.  
 This repo is the old source in many Java packages, but I change my plan, making all classes in less .java files, just the target of KuukoBack.   
 
 ## Target  
