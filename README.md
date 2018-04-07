@@ -2,6 +2,11 @@
 Copy of Kuuko (Copy of copy of kopilua), in the name of Tokisaki Kurumi(時崎狂三) and Isoshima Kurumi(五十島くるみ).  
 The second stage and power-up/bugfixing version of kopilua from Kuuko (https://github.com/weimingtom/Kuuko).    
 
+## NOTE
+This project is merged into KuukoBack  
+https://github.com/weimingtom/KuukoBack  
+But it is the name of Java implementation (planning) for KopiLuaCompare, so it is still alive, just not synchronized.  
+
 ## Target  
 * Porting kopilua (https://github.com/gerich-home/kopilua) to Java and Golang, etc     
 
